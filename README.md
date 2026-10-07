@@ -1,10 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E5FA3&height=200&section=header&text=Hi%20There!%20I'm%20Nisha%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20Project%20Manager%20%7C%20Jessore%2C%20Bangladesh&descAlignY=58&descSize=16" />
+  <img src="./Nisha Github.png" alt="Header Banner" width="100%" />
 </p>
-
-<h1 align="center">Lutfun Nahar Nisha</h1>
-<h3 align="center">🚀 Learning Full Stack Web Development | Project Manager | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/lutfunnaharnishaa">
@@ -19,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm **Nisha** from Jessore, Bangladesh — a Project Manager with 8+ years in tech delivery,
+I'm **Lutfun Nahar Nisha** from Jessore, Bangladesh — a Project Manager with 8+ years in tech delivery,
 now diving deep into full-stack web development with **Programming Hero**.
 
 I've spent years managing software products and working alongside developers.
